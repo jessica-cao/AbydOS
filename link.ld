@@ -1,3 +1,4 @@
+OUTPUT_FORMAT(elf32-i386)
 ENTRY(loader)                /* the name of the entry label */
 
 SECTIONS {
